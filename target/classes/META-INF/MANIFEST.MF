@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: spring-msg-producer
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: liwei
+Implementation-Vendor-Id: org.dark
+Build-Jdk: 1.8.0_161
+Implementation-URL: http://projects.spring.io/spring-boot/spring-msg-p
+ roducer/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
